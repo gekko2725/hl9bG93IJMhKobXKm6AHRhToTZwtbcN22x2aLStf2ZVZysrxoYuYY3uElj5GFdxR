@@ -1,4 +1,4 @@
-portfolio
+^ portfolio
 AD.UN:CA Alaris Equity Partners Income Trust
 AI:CA Atrium Mortgage Investment Corporation
 AP.UN:CA Allied Properties Real Estate Investment Trust
@@ -17,10 +17,10 @@ PPL:CA Pembina Pipeline Corporation
 SLF.PR.J:CA Sun Life Financial Preferred Shares Series 10
 TF:CA Timbercreek Financial Corp
 WCP:CA Whitecap Resources Inc
-startup
+^ startup
 1.2 MM test queue
 JWT processing service
-recurring payments
+^ recurring payments
 mortgage
 car insurance
 home insurance
