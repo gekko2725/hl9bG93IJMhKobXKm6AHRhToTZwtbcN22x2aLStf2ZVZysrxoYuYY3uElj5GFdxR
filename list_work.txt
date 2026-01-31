@@ -25,3 +25,5 @@ mortgage
 car insurance
 home insurance
 Amex fee
+NS hydro
+car payment
