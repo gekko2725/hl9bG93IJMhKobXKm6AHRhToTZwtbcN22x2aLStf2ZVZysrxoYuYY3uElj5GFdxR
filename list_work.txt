@@ -10,7 +10,6 @@ BPO.PR.C:CA Brookfield Office Properties Preferred Equity
 CGO:CA Cogeco Communications Inc
 DIV:CA Diversified Royalty Corp
 ENB:CA Enbridge Inc
-FTS:CA Fortis Inc
 GEI:CA Gibson Energy Inc
 NXR.UN:CA Nexus Industrial REIT
 PPL:CA Pembina Pipeline Corporation
