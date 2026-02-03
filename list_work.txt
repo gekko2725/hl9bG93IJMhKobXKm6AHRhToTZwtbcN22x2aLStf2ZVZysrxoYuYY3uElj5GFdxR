@@ -1,0 +1,30 @@
+^ portfolio
+AD.UN:CA Alaris Equity Partners Income Trust
+AI:CA Atrium Mortgage Investment Corporation
+AP.UN:CA Allied Properties Real Estate Investment Trust
+ARE:CA Aecon Group Inc
+BCE:CA BCE Did you spot this?
+BIP.UN:CA Brookfield Infrastructure Partners L.P.
+BNS:CA Bank of Nova Scotia
+BPO.PR.C:CA Brookfield Office Properties Preferred Equity
+CGO:CA Cogeco Communications Inc
+DIV:CA Diversified Royalty Corp
+ENB:CA Enbridge Inc
+GEI:CA Gibson Energy Inc
+NXR.UN:CA Nexus Industrial REIT
+PPL:CA Pembina Pipeline Corporation
+SLF.PR.J:CA Sun Life Financial Preferred Shares Series 10
+TF:CA Timbercreek Financial Corp
+WCP:CA Whitecap Resources Inc
+^ startup
+1.2 MM test queue
+JWT processing service
+^ recurring payments
+mortgage
+car insurance
+home insurance
+Amex fee
+NS hydro
+car payment
+^ clock
+cogs
